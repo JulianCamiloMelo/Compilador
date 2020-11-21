@@ -1,0 +1,13 @@
+PROGRAMA nombre_programa
+INICIO
+	VAR var1 COMO numero
+	VAR var2 COMO numero
+	VAR var3 COMO numero
+
+	ESCRIBIR 'Ingrese el primer digito'
+	LEER var1
+	ESCRIBIR 'Ingrese el segundo digito'
+	LEER var2
+	ASIGNAR var3 = var1 + var2
+	ESCRIBIR var3
+FIN
